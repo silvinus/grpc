@@ -1,0 +1,8 @@
+
+/.vs/grpc
+/GrpcGreeter/.vs/GrpcGreeter
+/GrpcGreeter/GrpcGreeter/bin/Debug/net5.0
+/GrpcGreeter/GrpcGreeter/obj
+/GrpcGreeterClient/.vs/GrpcGreeterClient
+/GrpcGreeterClient/GrpcGreeterClient/bin/Debug/netcoreapp3.1
+/GrpcGreeterClient/GrpcGreeterClient/obj
